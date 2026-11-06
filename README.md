@@ -16,8 +16,8 @@ const developer = {
     username: "godzila228123-gif",
     role: "Developer",
     location: "Earth 🌍",
-    languages: ["HTML", "CSS", "JavaScript"],
-    tools: ["VS Code", "Git", "GitHub"],
+    languages: ["HTML", "Python", "JavaScript"],
+    tools: ["VS Code", "Figma", "Linux"],
     interests: ["Programming", "Technology", "Design"],
     motto: "Code. Create. Innovate."
 };
@@ -33,7 +33,7 @@ const developer = {
 ⚡ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nodejs,git,github,vscode,linux,figma" />
+<img src="https://skillicons.dev/icons?i=html,python,js,vscode,figma,linux" />
 </div>
 
 ⸻
